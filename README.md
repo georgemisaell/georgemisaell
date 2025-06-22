@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is George and I'm a Fullstack Developer, from Indonesian</h2>
+<h2 align="left">Hi 👋! My name is George Misael and I'm a Fullstack Developer, from Indonesian</h2>
 
 ###
 
