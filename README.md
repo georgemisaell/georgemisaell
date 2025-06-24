@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/georgemisaell/georgemisaell/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
 <h2 align="left">Hi 👋! My name is George Misael and I'm a Fullstack Developer, from Indonesian</h2>
 
 ###
@@ -49,11 +53,5 @@
   </a>
 
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/georgemisaell/georgemisaell/output/snake.svg" alt="Snake animation" />
 
 ###
